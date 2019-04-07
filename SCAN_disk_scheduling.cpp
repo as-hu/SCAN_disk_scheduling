@@ -8,12 +8,12 @@ int main()
 	int ar1[50],ar2[50],i,j,x,temp,n;
     int head,prev_head;
 	
-	 printf("Enter the positionof the head--> ");
+	 printf("Enter the positionof the head-->");
 	 scanf("%d",&ar1[0]);
 	 head=ar1[0];
 	 printf("\n");
 	 
-	 printf("Enter the position of previous head--> ");
+	 printf("Enter the position of previous head-->");
 	 scanf("%d",&prev_head);	
 	 printf("\n");
 	 	
