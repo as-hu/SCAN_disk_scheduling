@@ -32,7 +32,7 @@ int main()
 	 ar1[n+2]=0;
 	 for(i=n+1;i>=0;i--)
 	 {for(j=0;j<=i;j++)
-	   {
+	   
 	     if(ar1[j]>ar2[j+1])
 		   {
 		    temp=ar1[j];
